@@ -16,5 +16,12 @@
       "onFail": "download"
     }
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^12.10.0",
+    "corsair": "^0.1.75"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13"
+  }
 }
