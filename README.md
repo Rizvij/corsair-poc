@@ -24,6 +24,11 @@ create migrtion.sql file
 # Read migration.sql and Create coirsair.db file
 sqlite3 corsair.db < migration.sql
 
+-------------------------
+
+pnpm install @corsair-dev/github
+
+-------------------------
 
 
 
